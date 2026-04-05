@@ -1,5 +1,5 @@
 # 📚 Library Management System (LMS)
-A practical project for the **JavaScript 102** course provided by **Satr Platform**.
+A practical project for the **JavaScript 101** course provided by **Satr Platform**.
 
 ## 📝 Project Description
 This project is a lightweight console-based system designed to manage library operations. It focuses on implementing core programming concepts in JavaScript, such as **2D Arrays** and **Conditional Logic**, to handle inventory and sales transactions.
